@@ -1,13 +1,11 @@
-body{
-    background-color: lightblue
+h1{
+    color: red
+
 }
-.redclass{
-    background-color: green;
-    color: red;
-}
-#greenid{
-    padding: 40px;
-            text-align: center;
-    background-color: green;
-  color: pink;
+
+.first{
+    color: red,
+    
+
+
 }
