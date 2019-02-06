@@ -1,5 +1,5 @@
 # tortoisegitdemo
-This is an example for the workshop presentation on tortoise git
+This is a demo on tortoise git
 ## Repository links
 
 - [Source](https://github.com/dachepally/tortoisegitdemo)
