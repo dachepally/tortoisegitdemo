@@ -2,7 +2,7 @@
 This is an example for the workshop presentation on tortoise git
 ## Repository links
 
-- [Source](https://github.com/dachepally/aboutme)
+- [Source](https://github.com/dachepally/tortoisegitdemo)
 - [WebPage](https://dachepally.github.io/aboutme/)
 
 ## About
