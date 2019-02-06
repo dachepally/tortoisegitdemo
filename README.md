@@ -30,7 +30,7 @@ This repository is to tell about usage of tortoise git.
 
 ## Contributors
 
-Dachepalli Sai Sri
-Sanjana
-Ganesh
-Chathur
+1.Dachepalli Sai Sri
+1.Sanjana
+1.Ganesh
+1.Chathur
